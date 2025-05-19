@@ -13,6 +13,8 @@ instructions on how to cook them.
 
 ### Languages and Framework
 
+- Frontend: HTML
+
 ### Managers, Packages, and Libraries
 
 ### Development Tools
