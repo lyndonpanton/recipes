@@ -2,7 +2,8 @@
 
 ## Description
 
-A website with links to recipes which users can follow.
+A website with links to recipes which users look at the ingredients and see
+instructions on how to cook them.
 
 ## Getting Started
 
